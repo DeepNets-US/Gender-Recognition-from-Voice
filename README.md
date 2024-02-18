@@ -12,7 +12,7 @@
 ### Option 2: Custom Models
 1. Clone the entire repository:
    ```
-   git clone https://github.com/your-username/voice-gender-recognition.git
+   git clone https://github.com/DeepNets-US/Gender-Recognition-from-Voice.git
    ```
 2. Open the project in your preferred IDE.
 3. Run the `gui.py` script.
