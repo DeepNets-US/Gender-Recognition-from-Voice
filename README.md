@@ -20,7 +20,7 @@
 ## Dependencies
 - Python 3.x
 - R (with required packages, as specified in the R script)
-- Libraries: tkinter, joblib, numpy, pydub (install using `pip install -r requirements.txt`)
+- Libraries: tkinter, joblib, numpy, pydub
 
 ## Usage
 1. Launch the GUI using one of the options above.
