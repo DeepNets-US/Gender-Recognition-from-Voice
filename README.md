@@ -6,7 +6,7 @@
 ## Graphical User Interface (GUI)
 
 ### Option 1: Direct Execution
-1. Navigate to the `gui.py` file.
+1. Navigate to the [`gui.py`](https://github.com/DeepNets-US/Gender-Recognition-from-Voice/blob/main/gui.py) file.
 2. Run the file using your preferred Python environment.
 
 ### Option 2: Custom Models
